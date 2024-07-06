@@ -1,0 +1,13 @@
+# Environment
+/venv
+/backend/backend/.env
+
+# Database
+backend/db.sqlite3
+
+# Cached Data
+/backend/backend/__pycache__/
+/backend/backend/migrations/
+
+/backend/api/__pycache__/
+/backend/api/migrations/
